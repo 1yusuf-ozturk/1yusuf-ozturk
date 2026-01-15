@@ -43,7 +43,7 @@
 
 <hr/>
 
-<h2 align="center">💻 YAPMIŞ OLDUĞUM PROJELER</h2>
+<h2 align="center"> YAPMIŞ OLDUĞUM PROJELER</h2>
 
 <div align="center">
 <table align="center" style="border: none;">
