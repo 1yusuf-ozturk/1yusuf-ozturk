@@ -48,52 +48,52 @@
 <table align="center" style="border: none;">
   <tr>
     <td align="center" width="400">
-      <img src="https://fonorix.online/github/1-CS2.png/400x200/000000/FFFFFF?text=PROJE+1" alt="Proje 1" style="width:100%; border-radius: 8px;"><br>
-      <h3>PROJE ADI 1</h3>
+      <img src="https://fonorix.online/github/1-CS2.png" alt="CS2 Kasa Simülasyonu" style="width:100%; border-radius: 8px;"><br>
+      <h3>CS2 KASA SİMÜLASYONU</h3>
     </td>
     <td align="center" width="400">
-      <img src="https://via.placeholder.com/400x200/000000/FFFFFF?text=PROJE+2" alt="Proje 2" style="width:100%; border-radius: 8px;"><br>
-      <h3>PROJE ADI 2</h3>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="400">
-      <img src="https://via.placeholder.com/400x200/000000/FFFFFF?text=PROJE+3" alt="Proje 3" style="width:100%; border-radius: 8px;"><br>
-      <h3>PROJE ADI 3</h3>
-    </td>
-    <td align="center" width="400">
-      <img src="https://via.placeholder.com/400x200/000000/FFFFFF?text=PROJE+4" alt="Proje 4" style="width:100%; border-radius: 8px;"><br>
-      <h3>PROJE ADI 4</h3>
+      <img src="https://fonorix.online/github/2-YAPAYZEKA.png" alt="Yapay Zeka Projesi" style="width:100%; border-radius: 8px;"><br>
+      <h3>YAPAY ZEKA PROJESİ</h3>
     </td>
   </tr>
   <tr>
     <td align="center" width="400">
-      <img src="https://via.placeholder.com/400x200/000000/FFFFFF?text=PROJE+5" alt="Proje 5" style="width:100%; border-radius: 8px;"><br>
-      <h3>PROJE ADI 5</h3>
+      <img src="https://fonorix.online/github/3-HASTANE.png" alt="Hastane Otomasyonu" style="width:100%; border-radius: 8px;"><br>
+      <h3>HASTANE OTOMASYONU</h3>
     </td>
     <td align="center" width="400">
-      <img src="https://via.placeholder.com/400x200/000000/FFFFFF?text=PROJE+6" alt="Proje 6" style="width:100%; border-radius: 8px;"><br>
-      <h3>PROJE ADI 6</h3>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="400">
-      <img src="https://via.placeholder.com/400x200/000000/FFFFFF?text=PROJE+7" alt="Proje 7" style="width:100%; border-radius: 8px;"><br>
-      <h3>PROJE ADI 7</h3>
-    </td>
-    <td align="center" width="400">
-      <img src="https://via.placeholder.com/400x200/000000/FFFFFF?text=PROJE+8" alt="Proje 8" style="width:100%; border-radius: 8px;"><br>
-      <h3>PROJE ADI 8</h3>
+      <img src="https://fonorix.online/github/4-ALI%C5%9EVER%C4%B0%C5%9E.png" alt="Alışveriş Sitesi" style="width:100%; border-radius: 8px;"><br>
+      <h3>ALIŞVERİŞ SİTESİ</h3>
     </td>
   </tr>
   <tr>
     <td align="center" width="400">
-      <img src="https://via.placeholder.com/400x200/000000/FFFFFF?text=PROJE+9" alt="Proje 9" style="width:100%; border-radius: 8px;"><br>
-      <h3>PROJE ADI 9</h3>
+      <img src="https://fonorix.online/github/5-ONL%C4%B0NE%20ARKA%20PLAN.png" alt="Online Arka Plan Silici" style="width:100%; border-radius: 8px;"><br>
+      <h3>ONLINE ARKA PLAN SİLİCİ</h3>
     </td>
     <td align="center" width="400">
-      <img src="https://via.placeholder.com/400x200/000000/FFFFFF?text=PROJE+10" alt="Proje 10" style="width:100%; border-radius: 8px;"><br>
-      <h3>PROJE ADI 10</h3>
+      <img src="https://fonorix.online/github/6-YOUTUBE.png" alt="YouTube Dönüştürücü" style="width:100%; border-radius: 8px;"><br>
+      <h3>YOUTUBE DÖNÜŞTÜRÜCÜ</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="400">
+      <img src="https://fonorix.online/github/7-SQL%20SERVER%20TABLO.png" alt="SQL Server Tablo" style="width:100%; border-radius: 8px;"><br>
+      <h3>SQL SERVER YÖNETİMİ</h3>
+    </td>
+    <td align="center" width="400">
+      <img src="https://fonorix.online/github/8-PDF.png" alt="PDF İşlemleri" style="width:100%; border-radius: 8px;"><br>
+      <h3>PDF ARAÇLARI</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="400">
+      <img src="https://fonorix.online/github/9-MP4.png" alt="Online Video Düzenleyici" style="width:100%; border-radius: 8px;"><br>
+      <h3>ONLINE VIDEO DÜZENLEYİCİ (MP4)</h3>
+    </td>
+    <td align="center" width="400">
+      <img src="https://fonorix.online/github/10-MP3.png" alt="Online Ses Düzenleyici" style="width:100%; border-radius: 8px;"><br>
+      <h3>ONLINE SES DÜZENLEYİCİ (MP3)</h3>
     </td>
   </tr>
 </table>
