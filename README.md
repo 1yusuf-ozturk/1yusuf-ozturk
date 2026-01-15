@@ -24,7 +24,7 @@
 
 <hr/>
 
-<h2 align="center">💀 BİLDİĞİM DİLLER VE ALANLAR</h2>
+<h2 align="center"> BİLDİĞİM DİLLER VE ALANLAR</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
