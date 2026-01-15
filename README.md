@@ -20,7 +20,6 @@
   <a href="https://www.linkedin.com/in/yusuf-%C3%B6zt%C3%BCrk-292b2a366/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=1yusuf-ozturk&style=for-the-badge&color=161b22&label=ZİYARETÇİLER" alt="Profile Views" />
 </div>
 
 <hr/>
@@ -98,6 +97,10 @@
     </td>
   </tr>
 </table>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=1yusuf-ozturk&style=for-the-badge&color=000000&label=PROFİL+GÖRÜNTÜLENME" alt="Profile Views" />
 </div>
 
 <div align="center">
