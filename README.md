@@ -73,7 +73,7 @@
     </td>
     <td align="center" width="400">
       <img src="https://images.weserv.nl/?url=https://fonorix.online/github/6-YOUTUBE.png&w=600&output=jpg&q=80" alt="YouTube Dönüştürücü" style="width:100%; border-radius: 8px;"><br>
-      <h3>YOUTUBE DÖNÜŞTÜRÜCÜ</h3>
+      <h3>ONLİNE DÖNÜŞTÜRÜCÜ</h3>
     </td>
   </tr>
   <tr>
