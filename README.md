@@ -1,25 +1,75 @@
-<h1 align="center">Selamlar Ben YUSUF ÖZTÜRK</h1>
-<h3 align="center">Bilgisayar Programcılığı öğrencisiyim. Yazılım dünyasındaki yenilikleri yakından takip ediyor, her geçen gün yeni teknolojiler öğrenerek hayalleri ve projeleri bir üst seviyeye taşıma.</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=300&section=header&text=YUSUF%20ÖZTÜRK&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Lise:%20Bilgisayar%20Yazılım%20Geliştirme%20%7C%20Üniversite:%20Bilgisayar%20Programcılığı&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%"/>
+</div>
 
-- CS2 Simülasyon Sitesi **CS2 Simülasyon Sitesi**
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Bilgisayar+Programcılığı+öğrencisiyim.;Yazılım+dünyasındaki+yenilikleri+yakından+takip+ediyor;Yeni+teknolojilerle+hayalleri+bir+üst+seviyeye+taşıyorum." alt="Typing SVG" />
+  </a>
+</div>
 
-- Sertifikalarım **Bilgisayar Sertifikası .**
+<br/>
 
-- Hastane Otomasyon Sistemi CFTSSL **Hastane Otomasyon Sistemi CFTSSL**
+<div align="center">
+  <a href="https://www.instagram.com/1yusuf_ozturk/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/1yusuf-ozturk" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yusuf-%C3%B6zt%C3%BCrk-292b2a366/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
-- Online Arka Plan Kaldırıcı TGF **Online Arka Plan Kaldırıcı TGF**
+<hr/>
 
-- CS2 Simülasyon Sitem [fonorix.online](fonorix.online)
+<h2 align="center">💀 BİLDİĞİM DİLLER VE ALANLAR</h2>
 
-- Diplomalarım **2026 Haziran 15 Bilgisayar Programcılığı Diploması**
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white" />
+  
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-000000?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+</div>
 
-- İletişime Geçebilirsiniz **yusufoz009066@gmail.com**
+<hr/>
 
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yusuf-öztürk-292b2a366" hedef = "boş"><img align = "orta" <a href="https://instagram.com/1yusuf_ozturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-öztürk-292b2a366" height="30" width="40" /></a>
-<a href="https://instagram.com/1yusuf_ozturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1yusuf_ozturk" height="30" width="40" /></a>
-</p>
+<h2 align="center">💻 YAPMIŞ OLDUĞUM PROJELER</h2>
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img <a href="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p><p> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p><p> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" width="400">
+      <img src="https://via.placeholder.com/400x200/000000/FFFFFF?text=PROJE+1+GORSELI" alt="Proje 1" style="width:100%; border-radius: 10px;"><br>
+      <h3>PROJE 1 İSMİ</h3>
+    </td>
+    <td align="center" width="400">
+      <img src="https://via.placeholder.com/400x200/000000/FFFFFF?text=PROJE+2+GORSELI" alt="Proje 2" style="width:100%; border-radius: 10px;"><br>
+      <h3>PROJE 2 İSMİ</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="400">
+      <img src="https://via.placeholder.com/400x200/000000/FFFFFF?text=PROJE+3+GORSELI" alt="Proje 3" style="width:100%; border-radius: 10px;"><br>
+      <h3>PROJE 3 İSMİ</h3>
+    </td>
+    <td align="center" width="400">
+      <img src="https://via.placeholder.com/400x200/000000/FFFFFF?text=PROJE+4+GORSELI" alt="Proje 4" style="width:100%; border-radius: 10px;"><br>
+      <h3>PROJE 4 İSMİ</h3>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=100&section=footer"/>
+</div>
