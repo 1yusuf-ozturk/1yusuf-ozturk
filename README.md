@@ -20,11 +20,12 @@
   <a href="https://www.linkedin.com/in/yusuf-%C3%B6zt%C3%BCrk-292b2a366/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=1yusuf-ozturk&style=for-the-badge&color=161b22&label=ZİYARETÇİLER" alt="Profile Views" />
 </div>
 
 <hr/>
 
-<h2 align="center">  DİLLER VE TEKNOLOJİLER</h2>
+<h2 align="center">💀 BİLDİĞİM DİLLER VE TEKNOLOJİLER</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,7 +43,7 @@
 
 <hr/>
 
-<h2 align="center"> YAPMIŞ OLDUĞUM PROJELER</h2>
+<h2 align="center">💻 YAPMIŞ OLDUĞUM PROJELER</h2>
 
 <div align="center">
 <table align="center" style="border: none;">
