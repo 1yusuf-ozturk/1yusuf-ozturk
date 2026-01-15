@@ -48,7 +48,7 @@
 <table align="center" style="border: none;">
   <tr>
     <td align="center" width="400">
-      <img src="https://via.placeholder.com/400x200/000000/FFFFFF?text=PROJE+1" alt="Proje 1" style="width:100%; border-radius: 8px;"><br>
+      <img src="https://fonorix.online/github/1-CS2.png/400x200/000000/FFFFFF?text=PROJE+1" alt="Proje 1" style="width:100%; border-radius: 8px;"><br>
       <h3>PROJE ADI 1</h3>
     </td>
     <td align="center" width="400">
