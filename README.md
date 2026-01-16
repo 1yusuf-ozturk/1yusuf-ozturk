@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=300&section=header&text=YUSUF%20ÖZTÜRK&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Lise:%20Bilgisayar%20Bölümü%20%7C%20Üniversite:%20Bilgisayar%20Programcılığı&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=300&section=header&text=YUSUF%20ÖZTÜRK&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Yazılım%20Geliştirici%20%7C%20Web%20%26%20Masaüstü%20%7C%20Yapay%20Zeka&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
