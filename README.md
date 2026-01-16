@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=300&section=header&text=YUSUF%20OZTURK&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Yazilim%20Gelistirici%20|%20Web%20ve%20Masaustu%20|%20Yapay%20Zeka&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=300&section=header&text=YUSUF%20OZTURK&fontSize=70&animation=fadeIn&fontAlignY=50&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
