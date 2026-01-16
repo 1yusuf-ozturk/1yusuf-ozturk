@@ -11,7 +11,7 @@
 <br/>
 <div align="center">
   <a href="https://www.instagram.com/1yusuf_ozturk/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/1yusuf-ozturk" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
