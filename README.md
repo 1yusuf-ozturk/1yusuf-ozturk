@@ -24,7 +24,7 @@
 
 <hr/>
 
-<h2 align="center">💀 BİLDİĞİM DİLLER VE TEKNOLOJİLER</h2>
+<h2 align="center">  DİLLER VE TEKNOLOJİLER</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,7 +42,7 @@
 
 <hr/>
 
-<h2 align="center">💻 YAPMIŞ OLDUĞUM PROJELER</h2>
+<h2 align="center"> YAPMIŞ OLDUĞUM PROJELER</h2>
 
 <div align="center">
 <table align="center" style="border: none;">
