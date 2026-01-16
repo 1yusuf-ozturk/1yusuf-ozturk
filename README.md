@@ -17,8 +17,8 @@
     <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
   </a>
   <a href="https://www.linkedin.com/in/yusuf-%C3%B6zt%C3%BCrk-292b2a366/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white&cache=buster" alt="LinkedIn"/>
+</a>
 </div>
  
 
