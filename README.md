@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=300&section=header&text=YUSUF%20ÖZTÜRK&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Lise:%20Bilgisayar%20Yazılım%20Geliştirme%20%7C%20Üniversite:%20Bilgisayar%20Programcılığı&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=300&section=header&text=YUSUF%20ÖZTÜRK&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Lise:%20Bilgisayar%20Bölümü%20%7C%20Üniversite:%20Bilgisayar%20Programcılığı&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@
 
 <hr/>
 
-<h2 align="center">  DİLLER VE TEKNOLOJİLER</h2>
+<h2 align="center">💀 BİLDİĞİM DİLLER VE TEKNOLOJİLER</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,7 +42,7 @@
 
 <hr/>
 
-<h2 align="center"> YAPMIŞ OLDUĞUM PROJELER</h2>
+<h2 align="center">💻 YAPMIŞ OLDUĞUM PROJELER</h2>
 
 <div align="center">
 <table align="center" style="border: none;">
