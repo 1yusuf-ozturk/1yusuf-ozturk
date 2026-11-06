@@ -23,7 +23,7 @@
 
 <hr/>
 
-<h2 align="center"> 💻 KULLANDIĞIM DİLLER VE TEKNOLOJİLER</h2>
+<h2 align="center">KULLANDIĞIM DİLLER VE TEKNOLOJİLER</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -39,43 +39,43 @@
 
 <hr/>
 
-<h2 align="center"> 🚀 ÖNE ÇIKAN PROJELERİM</h2>
+<h2 align="center">ÖNE ÇIKAN PROJELERİM</h2>
 
 <div align="center">
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎮 CS2 Kasa & Battle Simülasyonu</h3>
+      <h3>CS2 Kasa ve Battle Simülasyonu</h3>
       <p>PHP, MySQL ve JavaScript kullanılarak geliştirilen, dinamik model mantığı ve modern arayüze sahip web tabanlı simülasyon platformu (Fonorix).</p>
       <code>PHP</code> <code>MySQL</code> <code>JavaScript</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Yapay Zeka Sohbet Platformu</h3>
+      <h3>Yapay Zeka Sohbet Platformu</h3>
       <p>Dinamik model değişimi, kredi simülasyonları ve glassmorphism arayüz tasarımına sahip yapay zeka asistan platformu (QuiravaAI).</p>
       <code>PHP</code> <code>API</code> <code>CSS3</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Hastane Otomasyon Sistemi</h3>
-      <p>Randevu yönetimi, poliklinik işlemleri ve hasta kayıt süreçlerini optimize eden kapsamlı masaüstü/web otomasyon çözümü.</p>
+      <h3>Hastane Otomasyon Sistemi</h3>
+      <p>Randevu yönetimi, poliklinik işlemleri ve hasta kayıt süreçlerini optimize eden kapsamlı otomasyon çözümü.</p>
       <code>C#</code> <code>SQL Server</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 E-Ticaret Alışveriş Sitesi</h3>
-      <p>Ürün yönetimi, sepet entegrasyonu ve güvenli ödeme simülasyon barındıran dinamik e-ticaret altyapısı.</p>
+      <h3>E-Ticaret Alışveriş Sitesi</h3>
+      <p>Ürün yönetimi, sepet entegrasyonu ve güvenli ödeme simülasyonu barındıran dinamik e-ticaret altyapısı.</p>
       <code>PHP</code> <code>JavaScript</code> <code>MySQL</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✂️ Online Arka Plan Silici</h3>
+      <h3>Online Arka Plan Silici</h3>
       <p>Görsellerin arka planını hızlıca temizlemek ve düzenlemek için geliştirilmiş pratik web aracı.</p>
       <code>JavaScript</code> <code>HTML5</code> <code>API</code>
     </td>
     <td width="50%" valign="top">
-      <h3>📥 Medya Dönüştürücü Araçları</h3>
-      <p>YouTube video/ses dönüştürme, MP4/MP3 düzenleme ve PDF araçlarını içeren çok fonksiyonlu web araç seti.</p>
+      <h3>Medya Dönüştürücü Araçları</h3>
+      <p>Video/ses dönüştürme ve PDF işlemlerini içeren çok fonksiyonlu web araç seti.</p>
       <code>Node.js</code> <code>JavaScript</code> <code>PHP</code>
     </td>
   </tr>
@@ -89,5 +89,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.api/api?type=waving&color=161b22&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=100&section=footer"/>
 </div>
